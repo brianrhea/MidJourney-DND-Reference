@@ -1,6 +1,6 @@
 # Characters
 
-## Portraits
+## Portraits by Race
 
 I've found the following prompt to be a reliable way to get an attractive portrait of a character:
 
@@ -8,22 +8,13 @@ I've found the following prompt to be a reliable way to get an attractive portra
 
 The order of the words matters and the sequence above is  
 
-<table>
-<thead>
-  <tr>
-    <td><code>#{race}</code></td>
-    <td><code>#{image}</code></td>
-    <td>no image</td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Genasi</td>
-    <td><img url></td>
-    <td>-</td>
-  </tr>
-</tbody>
-</table>
+### Basics
+
+`/imagine #{image}, portrait, dnd #{race}, painterly, character art --seed 1876`
+
+| `#{race}` | `#{image}` | no image |
+|---|---|---|
+| Genasi | [URL](https://www.dndbeyond.com/avatars/thumbnails/7/630/420/618/636286776277352504.png) | - |
+|  | ![Genasi](/Images/Genasi_Basic_Image.png) | ![Genasi](/Images/Genasi_Basic_NoImage.png) |
 
 ## Portrait experiments
-
