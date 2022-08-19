@@ -11,8 +11,8 @@ The order of the words matters and the sequence above is
 <table>
 <thead>
   <tr>
-    <td>#{race}</td>
-    <td>#{image}</td>
+    <td>`#{race}`</td>
+    <td>`#{image}`</td>
     <td>no image</td>
   </tr>
 </thead>
