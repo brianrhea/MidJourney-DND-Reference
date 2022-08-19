@@ -6,11 +6,20 @@ I've found the following prompt to be a reliable way to get an attractive portra
 
 `/imagine #{image}, portrait, dnd #{race}, #{physical features}, painterly, #{atmosphere}, character art, #{color}`
 
-The order of the words matters and the sequence above is  
+Below is a series of basic prompts that do not include `physical features`, `atmosphere`, or `color` keywords. I'll explore those on individual race pages; hopefully the table below will provide a decent starting point to bring your character to life.
 
 ### Basics
 
-`/imagine #{image}, portrait, dnd #{race}, painterly, character art --seed 1876`
+`/imagine <#{image}>, portrait, dnd #{race}, painterly, character art --seed 1876`
+
+<sub>I've added the `--seed 1876` parameter here to give this resource some consistency in case revisions are necessary and as I continue to learn the details of how MidJourney works. You do not have to add this parameter to your prompt</sub>
+
+The table below is a series of prompts using some standard DND race names. The image on the left uses an image prompt (viewable in the URL link), the image on the right does not.
+
+So for example, the prompts I used to generate the Aarakocra images were:
+
+- `/imagine <https://www.tribality.com/wp-content/uploads/2014/10/aarakocra.jpg> portrait, dnd Aarakocra, painterly, character art --seed 1876`
+- `/imagine portrait, dnd Aarakocra, painterly, character art --seed 1876`
 
 | `#{race}` | `#{image}` | no image |
 |---|---|---|
@@ -62,3 +71,5 @@ The order of the words matters and the sequence above is
 |  | ![Tortle](/Images/Tortle_Basic_Image.png) | ![Tortle](/Images/Tortle_Basic_NoImage.png) |
 
 ## Portrait experiments
+
+Coming soon
