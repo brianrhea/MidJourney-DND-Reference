@@ -14,9 +14,9 @@ The order of the words matters and the sequence above is
 
 | `#{race}` | `#{image}` | no image |
 |---|---|---|
-| Aarakocra | [URL](https://www.dndbeyond.com/avatars/thumbnails/25746/804/420/618/637880558236223926.png) | - |
+| Aarakocra | [URL](https://www.tribality.com/wp-content/uploads/2014/10/aarakocra.jpg) | - |
 |  | ![Aarakocra](/Images/Aarakocra_Basic_Image.png) | ![Aarakocra](/Images/Aarakocra_Basic_NoImage.png) |
-| Aasimar | [URL](https://www.dndbeyond.com/avatars/thumbnails/25746/807/420/618/637880558241494569.png) | - |
+| Aasimar | [URL](https://www.pngkey.com/png/full/346-3465735_dnd-aasimar.png) | - |
 |  | ![Aasimar](/Images/Aasimar_Basic_Image.png) | ![Aasimar](/Images/Aasimar_Basic_NoImage.png) |
 | Bugbear | [URL](https://www.dndbeyond.com/avatars/thumbnails/25746/813/420/618/637880558250685392.png) | - |
 |  | ![Bugbear](/Images/Bugbear_Basic_Image.png) | ![Bugbear](/Images/Bugbear_Basic_NoImage.png) |
